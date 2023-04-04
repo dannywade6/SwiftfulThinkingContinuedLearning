@@ -11,6 +11,9 @@
 		30A5557629DCC0450009F240 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30A5557529DCC0450009F240 /* ContentView.swift */; };
 		30A5557829DCC0460009F240 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30A5557729DCC0460009F240 /* Assets.xcassets */; };
 		30A5557B29DCC0460009F240 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30A5557A29DCC0460009F240 /* Preview Assets.xcassets */; };
+		30A5558229DCC0800009F240 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30A5558129DCC0800009F240 /* LongPressGestureBootcamp.swift */; };
+		30A5558429DCC57B0009F240 /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30A5558329DCC57B0009F240 /* MagnificationGestureBootcamp.swift */; };
+		30A5558629DCCBA00009F240 /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30A5558529DCCB9F0009F240 /* RotationGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		30A5557529DCC0450009F240 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		30A5557729DCC0460009F240 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		30A5557A29DCC0460009F240 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		30A5558129DCC0800009F240 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
+		30A5558329DCC57B0009F240 /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
+		30A5558529DCCB9F0009F240 /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				30A5557329DCC0450009F240 /* SwiftfulThinkingContinuedLearningApp.swift */,
 				30A5557529DCC0450009F240 /* ContentView.swift */,
+				30A5558129DCC0800009F240 /* LongPressGestureBootcamp.swift */,
+				30A5558329DCC57B0009F240 /* MagnificationGestureBootcamp.swift */,
+				30A5558529DCCB9F0009F240 /* RotationGestureBootcamp.swift */,
 				30A5557729DCC0460009F240 /* Assets.xcassets */,
 				30A5557929DCC0460009F240 /* Preview Content */,
 			);
@@ -139,6 +148,9 @@
 			files = (
 				30A5557629DCC0450009F240 /* ContentView.swift in Sources */,
 				30A5557429DCC0450009F240 /* SwiftfulThinkingContinuedLearningApp.swift in Sources */,
+				30A5558429DCC57B0009F240 /* MagnificationGestureBootcamp.swift in Sources */,
+				30A5558229DCC0800009F240 /* LongPressGestureBootcamp.swift in Sources */,
+				30A5558629DCCBA00009F240 /* RotationGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
